@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import { Header } from '@/components/landing/header'
 import { Hero } from '@/components/landing/hero'
 import { Features } from '@/components/landing/features'
